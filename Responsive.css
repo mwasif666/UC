@@ -1,0 +1,119 @@
+@media all and (min-width: 992px) and (max-width: 1201px) {
+  .navbar-nav {
+    padding-left: 160px !important;
+  }
+  .navbar-nav .nav-link {
+    font-size: 12px !important;
+  }
+  .logo {
+    padding-right: 80px;
+  }
+}
+@media all and (min-width: 0px) and (max-width: 1201px) {
+  .cyber-card-app .card1 {
+    margin: 0 !important;
+  }
+}
+@media all and (min-width: 0px) and (max-width: 992px) {
+  .contact_phone {
+    margin-left: -40px;
+    display: inline;
+    width: 400px;
+  }
+  .logo img {
+    padding-top: 0 !important;
+    position: relative;
+    left: 50px;
+  }
+  .slider-content h1 {
+    font-size: 40px;
+  }
+  .training_content h1 {
+    font-size: 20px !important;
+  }
+  .container {
+    max-width: 100% !important;
+    padding: 0px 20px !important;
+    margin: 0 !important;
+  }
+  .img-dot,
+  .card-image-enrollment {
+    display: none;
+  }
+  .Workforce_programs-img2 {
+    margin: 0 !important;
+  }
+  .Workforce_programs-img2 {
+    width: 100% !important;
+  }
+  .Workforce_programs2 .card2 {
+    height: fit-content !important;
+  }
+
+  .cyber-accordian {
+    padding: 0 !important;
+  }
+}
+@media all and (min-width: 0px) and (max-width: 770px) {
+  .contact_phone {
+    display: none !important;
+  }
+  .contact_user {
+    display: flex;
+    justify-content: end;
+  }
+  .slider-content h1 {
+    font-size: 30px;
+  }
+  .Workforce_programs-img::before {
+    display: none !important;
+  }
+  .Workforce_programs-img img {
+    width: 100%;
+    height: auto;
+  }
+  .Workforce_programs-img {
+    width: 100%;
+    margin-top: 25px !important;
+    height: 45vh;
+  }
+  .lazy2 .card {
+    margin: 0 !important;
+  }
+  .workflow_content {
+    padding: 0px 20px !important;
+  }
+  .Workforce_programs-img {
+    background-size: cover !important;
+  }
+  .card2 {
+    padding-bottom: 0 !important;
+  }
+  .cyber-card-app .card-3 {
+    padding-top: 0 !important;
+    padding-bottom: 30px;
+  }
+
+  .Workforce_programs-img2::before {
+    display: none;
+  }
+  .Workforce_programs2 .card2:hover,
+  .Workforce_programs2 .card:hover {
+    transform: translateY(-20px);
+  }
+  .content-col-2 {
+    position: relative !important;
+  }
+  .end-contact-col-1 .content-col-1 {
+    display: none;
+  }
+  .bottom-footer {
+    padding: 0 !important;
+  }
+  .footer {
+    padding-left: 0 !important;
+  }
+  .content-para p {
+    width: 100% !important;
+  }
+}
